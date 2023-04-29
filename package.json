@@ -1,0 +1,10 @@
+{
+  "name": "highlightjs-iptables",
+  "description": "A hljs language for Iptables files",
+  "authors": "Dorian CHECCONI",
+  "version": "1.0.0",
+  "main": "./src/languages/iptables.js",
+  "dependencies": {
+    "highlight.js": "^11.7.0"
+  }
+}
