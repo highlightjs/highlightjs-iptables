@@ -1,5 +1,9 @@
 # Iptables - a language grammar for highlight.js
 
+## Demo
+<img width="512" alt="demo" src="https://user-images.githubusercontent.com/13965280/235311691-5fceccbe-710d-4faf-a391-5e1644f7ef24.png">
+
+
 ## Usage
 
 Simply include the Highlight.js library in your webpage or Node app, then load this module.
